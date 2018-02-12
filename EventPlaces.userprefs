@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BEFAE9AE-1C4B-4855-9A6D-537E7CE28ECA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventPlaces/Scripts/script.js">
+    <Files>
+      <File FileName="EventPlaces/Controllers/HomeController.cs" Line="28" Column="60" />
+      <File FileName="EventPlaces/Views/Home/Index.cshtml" Line="8" Column="1" />
+      <File FileName="EventPlaces/Scripts/script.js" Line="18" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EventPlaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

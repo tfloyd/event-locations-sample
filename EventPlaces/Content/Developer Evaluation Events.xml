@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<events>
+	<event id="1" name="New Years Eve Party" date="31st Decmeber 2012">
+		<address address1="64 Glebe Place" address2="" suburb="PENRITH" state="NSW" country="Australia"  />
+	</event>
+	<event id="2" name="Treasure Hunt" date="22nd September 2012">
+		<address address1="615 Thirlmere Way" address2="" suburb="PICTON" state="NSW" country="Australia" />
+	</event>
+</events>
